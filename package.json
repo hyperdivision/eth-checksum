@@ -1,6 +1,6 @@
 {
   "name": "eth-checksum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Ethereum address checksum with EIP-1191 support",
   "main": "index.js",
   "publishConfig": {
