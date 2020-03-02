@@ -1,6 +1,6 @@
 {
   "name": "@hyperdivision/eth-checksum",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Ethereum address checksum with EIP-1191 support",
   "main": "index.js",
   "publishConfig": {
