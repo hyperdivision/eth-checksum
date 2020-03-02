@@ -1,0 +1,31 @@
+{
+  "name": "@hyperdivision/eth-checksum",
+  "version": "0.0.0",
+  "description": "Ethereum address checksum with EIP-1191 support",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "keccak": "^3.0.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "tape": "^4.13.0"
+  },
+  "scripts": {
+    "pretest": "standard",
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperdivision/eth-checksum.git"
+  },
+  "keywords": [],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperdivision/eth-checksum/issues"
+  },
+  "homepage": "https://github.com/hyperdivision/eth-checksum#readme"
+}
